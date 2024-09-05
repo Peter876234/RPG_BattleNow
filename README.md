@@ -1,4 +1,4 @@
-# RPG_Battle
+# RPG_BattleNow
 
 Battle Now is a third-person action RPG that incorporates Dungeons & Dragons-style mechanics. We have crafted the game to deliver a Roguelike experience, ensuring that every playthrough feels unique and memorable. A standout feature contributing to this distinctiveness is our innovative Dice system. By integrating this mechanic, we aim to keep gameplay fresh and exhilarating. The outcomes of the dice rolls grant players various buffs and effects, introducing an extra layer of variability and strategy. This feature enriches the overall gameplay experience, allowing players to adapt their strategies based on the dice results, ultimately creating an engaging and dynamic environment.
 
